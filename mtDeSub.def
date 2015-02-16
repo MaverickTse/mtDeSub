@@ -1,0 +1,3 @@
+LIBRARY mtDeSub
+EXPORTS
+	GetFilterTable @1
